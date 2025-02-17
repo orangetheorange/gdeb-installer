@@ -16,6 +16,8 @@ Tired of using commandline every single time to install a package? GDeb Installe
 
 # Python code setup
 `pip install -r requirements.txt`
+
 `python main.py`
 
-# 
+# Support me!
+You don't need to donate, but please submit suggestions and issues, it will help the project a lot!!!
