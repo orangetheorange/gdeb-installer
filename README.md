@@ -15,7 +15,7 @@ Tired of using commandline every single time to install a package? GDeb Installe
 
 
 # Installation 
-Download the .deb package from the release: [https://github.com/orangetheorange/gdeb-installer/releases](#Releases)
+Download the .deb package from the release: [Releases](https://github.com/orangetheorange/gdeb-installer/releases)
 
 `sudo dpkg -i gdeb-installer.deb`
 
