@@ -17,6 +17,11 @@ Tired of using commandline every single time to install a package? GDeb Installe
 # Installation 
 `sudo dpkg -i gdeb-installer.deb`
 
+or to run without installing: 
+
+`chmod +x gdeb-installer.sh`
+`./gdeb-installer.sh`
+
 
 # Python code setup
 `$ git clone https://github.com/orangetheorange/gdeb-installer`
