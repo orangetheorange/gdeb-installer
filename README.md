@@ -20,6 +20,7 @@ Tired of using commandline every single time to install a package? GDeb Installe
 or to run without installing: 
 
 `chmod +x gdeb-installer.sh`
+
 `./gdeb-installer.sh`
 
 
